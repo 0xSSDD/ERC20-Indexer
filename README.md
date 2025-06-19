@@ -1,14 +1,17 @@
 # ERC20 Indexer
 
-A React-based dashboard that tracks crypto token balances (both native and ERC20) across multiple chains at specific historical block numbers. Currently supports Ethereum, Arbitrum, Avalanche, Polygon, and Optimism networks.
+A Simple dirty, React-based dashboard that tracks crypto token balances (both native and ERC20) across multiple chains at specific historical block numbers.
+
+Currently supports Ethereum, Arbitrum, Avalanche, Polygon, and Optimism networks, you can add a million more, you are only limited by what Quicknode AND alchemy support
 
 Uses Alchemy and Quicknode, Inspired by https://github.com/alchemyplatform/erc20-indexer
+
+![alt text](<Screenshot 2025-06-19 at 11.39.31.png>)
 
 ## Features
 - Multi-chain balance tracking
 - Historical balance lookup at specific blocks
 - Support for both native tokens and ERC20 tokens
-- Clean, modern UI with sorting and filtering
 - Deleted tokens tracking
 
 ## Quick Start

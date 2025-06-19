@@ -128,7 +128,7 @@ function App() {
       <Center>
         <Flex direction="column" align="center" w="100%">
           <Heading mb={2} fontSize={40} fontWeight="extrabold" color="gray.800" letterSpacing="tight">
-            Free Token Indexer
+            ERC20 Token Indexer
           </Heading>
           <Text mb={2} color="gray.600" fontSize="lg">
             Enter an address to view all token and native balances across supportedchains.
